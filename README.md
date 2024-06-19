@@ -10,6 +10,7 @@ Comparing multiple stocks and understanding their relationship using multiple vi
 The project has been divided into 2 parts.
 
 Part 1: Stock Data Analysis for a Single Stock
+
 Part 2: Stock Data Analysis for Multiple Stocks
 
 ## Here are the overall concepts/skills you’ll be tested on:
